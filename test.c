@@ -8,5 +8,7 @@ int main(void)
 
 	/* call issue1() */
 	issue1();
+	/* fix issue2 */
+
 	return 0;
 }
